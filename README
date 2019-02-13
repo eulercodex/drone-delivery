@@ -1,0 +1,12 @@
+Assumption:
+* drone can only carry 1 order at a time
+* drone has to return to warehouse for every order
+* overnight deliveries are not included in the output file but they're automatically assumed to be detractors
+
+How to run main:
+
+*python3 drone.py <name of the input file>
+
+How to run test:
+
+*python3 drone_test.py
